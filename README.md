@@ -6,4 +6,4 @@ Hi its first day.
 const a = 5;
 console.log(a)
 ```
-[google](google.com)
+[google](https://www.google.com)
